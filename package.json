@@ -1,4 +1,5 @@
-{
+{ 
+  "homepage": "./",
   "name": "odiolacebolla",
   "version": "0.1.0",
   "private": true,
